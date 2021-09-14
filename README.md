@@ -15,15 +15,26 @@ The Olympics is an international sporting event.Participation in the event has e
 
 ```bash
 ● The dataset provided consists of 31,165 unique athletes with 9 attributes:
-
+    1. Year
+    2. City
+    3. Sport
+    4. Discipline
+    5. Athlete
+    6. Country
+    7. Gender
+    8. Event
+    9. Medal
 ``` 
 
 ## Observation
 
-```bash
-● 
+● Some analysis:
 
-```
+![](https://github.com/ajaman190/ETG_Summer_Olympics_Data_Analysis/blob/main/images/Screenshot%202021-09-14%20113013.png)
+
+![](https://github.com/ajaman190/ETG_Summer_Olympics_Data_Analysis/blob/main/images/Screenshot%202021-09-14%20112940.png)
+
+![](https://github.com/ajaman190/ETG_Summer_Olympics_Data_Analysis/blob/main/images/Screenshot%202021-09-14%20112751.png)
 
 
   
