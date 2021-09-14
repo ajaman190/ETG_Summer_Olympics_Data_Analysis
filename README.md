@@ -1,6 +1,6 @@
 # Summer Olympics Analysis
 
-The Olympic Games is a well-known sporting platform which is recognized all over the world, has been distinguished from the late 19th century. So we are goint to analyse the summer Olympic dataset and come up with the numerous observation and graphical representation.
+The Olympics is an international sporting event.Participation in the event has expanded from 241 athletes to 11,500 since the last Olympics. Given the historical data throughout the Olympics, the odds of winning a medal (gold, silver, or bronze) could perhaps be given based on a few biological attributes of the athletes. So here we are going to do exploratory data analysis so we may visualize patterns within the dataset.
 
 
 ## Repository Files
@@ -11,7 +11,12 @@ The Olympic Games is a well-known sporting platform which is recognized all over
 | summer.csv |Olympic record csv file of dimension (31165 x 9)|
 | images |  Contain screenshots of observation and graphs|
 
- 
+## Dataset
+
+```bash
+● The dataset provided consists of 31,165 unique athletes with 9 attributes:
+
+``` 
 
 ## Observation
 
