@@ -8,7 +8,7 @@ The Olympic Games is a well-known sporting platform which is recognized all over
   | Files             | What they Contains ?                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | summer.ipynb |Jupyter Notebook Code |
-| summer.csv |Olympic record csv file of dimension (31022 x 13)|
+| summer.csv |Olympic record csv file of dimension (31165 x 9)|
 | images |  Contain screenshots of observation and graphs|
 
  
